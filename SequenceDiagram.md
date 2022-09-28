@@ -1,0 +1,12 @@
+# git_practice
+![슬라이드1](https://user-images.githubusercontent.com/85742844/192698914-aa8c4d92-ae11-4e44-b924-c45e383000bf.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/85742844/192698921-c9ea977a-661c-4dd0-a7b0-7f7cfef0165d.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/85742844/192698922-2b872a3f-db6d-4849-b9b8-a25d40a88c1a.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/85742844/192698924-0c47d82d-ae29-42e0-a9df-c10297773e15.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/85742844/192698926-d8840c5e-0b84-4970-aa43-5444c5cef419.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/85742844/192698927-7cf33cb8-8913-4766-978d-bb1d328d5ac6.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/85742844/192698928-73de5188-8121-4c46-a2c8-a99b33acea70.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/85742844/192698931-795865f5-e859-4910-9aad-5b6035ec4a2b.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/85742844/192698933-4cbde7a8-5119-48ec-9100-f386a9db361b.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/85742844/192698935-8b0b1b03-1725-4cc8-a6ae-e664a376331a.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/85742844/192698938-3086b2f9-fe0a-4d09-812e-77764323cab5.PNG)
